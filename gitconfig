@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benyelles82@hotmail.com
+	name = Sami Benyelles
